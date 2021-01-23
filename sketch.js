@@ -6,7 +6,7 @@ function preload() {
 function setup(){
     createCanvas(1000,800);
     //create tom and jerry sprites here
-
+ 
 }
 
 function draw() {
